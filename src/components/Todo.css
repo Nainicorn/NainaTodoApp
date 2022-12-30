@@ -1,0 +1,26 @@
+.Todo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  outline-style: auto;
+  padding: 10px;
+  width: 50%;
+  margin-bottom: 20px;
+}
+.Todo-Shell {
+  display: flex;
+}
+.Todo-Checked {
+  margin-left: 15px;
+  margin-right: 25px;
+  margin-top: 18px;
+  justify-content: center;
+}
+.Todo-Edit {
+  margin: 20px;
+  margin-top: 18px;
+}
+.Todo-Delete {
+  margin: 20px;
+  margin-top: 18px;
+}
