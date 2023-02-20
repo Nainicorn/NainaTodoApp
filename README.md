@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## This is my test React Project that is a TO-DO list project (plan on working on it to make into functional Planner App)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
